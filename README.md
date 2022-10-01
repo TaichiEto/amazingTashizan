@@ -3,5 +3,4 @@
 # Usage
 ``` 
 ruby amazingTashizan.rb
-
 ```
